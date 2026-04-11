@@ -1,4 +1,4 @@
-## Olá, sou Allan, estudante de ADS
+## Olá, sou Allan, Formado em ADS
 
 <div align="center">
   <a href="https://github.com/shutxx">
@@ -20,7 +20,4 @@
 </div>
 
 ---
-
-## 🐍 Snake animation
-
 ![Snake animation](https://github.com/shutxx/shutxx/blob/output/github-contribution-grid-snake.svg)
